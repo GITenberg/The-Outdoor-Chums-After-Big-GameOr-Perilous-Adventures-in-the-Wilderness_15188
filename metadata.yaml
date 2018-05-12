@@ -1,0 +1,31 @@
+_repo: The-Outdoor-Chums-After-Big-GameOr-Perilous-Adventures-in-the-Wilderness_15188
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 15188-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Allen, Quincy
+    alias: Allen, Captain Quincy
+    gutenberg_agent_id: '3424'
+    url: http://www.gutenberg.org/2009/agents/3424
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2005-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15188'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Northwest, Pacific -- Juvenile fiction'
+- !lcsh 'Outdoor life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Hunting -- Juvenile fiction'
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Camping -- Juvenile fiction'
+title: The Outdoor Chums After Big Game; Or, Perilous Adventures in the Wilderness
+url: http://www.gutenberg.org/ebooks/15188
